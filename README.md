@@ -8,7 +8,9 @@ A simple calculator built using Python.
 - Subtraction
 - Multiplication
 - Division
-- 
+- Square root
+- Modulus
+- Exponentiation 
 
 ## Technologies Used
 - Python
